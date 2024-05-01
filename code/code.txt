@@ -1,0 +1,7 @@
+mkdir new_folder_name
+touch new_folder_name/Code.txt
+touch new_folder_name/Log.txt
+touch new_folder_name/Output.txt
+git add new_folder_name/Code.txt
+git add new_folder_name/Output.txt
+
